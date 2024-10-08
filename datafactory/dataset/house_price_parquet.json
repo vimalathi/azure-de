@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"folderPath": "house_price",
 				"fileSystem": "silver"
 			},
 			"compressionCodec": "snappy"
